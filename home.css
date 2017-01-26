@@ -5,6 +5,9 @@ background-color:green;
 }
 
 p{
+  position: absolute;
+    left: 100px;
+    top: 150px;
 color:00008B;
   font-size:large;
 }
