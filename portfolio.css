@@ -1,8 +1,10 @@
 h1{
-font-size:200%;
-  background-color:green;
+font-size:250%;
+  background-color:lightgreen;
  color:darkred;
 }
 p1{
 font-size:150%;
+  background-color:gray;
+  color:darkred;
 }
