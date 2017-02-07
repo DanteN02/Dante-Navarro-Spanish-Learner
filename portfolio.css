@@ -5,6 +5,13 @@ font-size:250%;
 }
 p1{
 font-size:150%;
-  background-color:gray;
+  color:darkred;
+}
+p2{
+font-size:125%;
+  color:darkred;
+}
+p3{
+font-size:125%;
   color:darkred;
 }
